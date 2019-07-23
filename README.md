@@ -1,4 +1,4 @@
-# sifa
+# SIFA
 
 Statistical Ineffective Fault Analysis
 
