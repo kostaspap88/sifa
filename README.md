@@ -1,6 +1,6 @@
 # SIFA
 
-Statistical Ineffective Fault Analysis
+Statistical Ineffective Fault Analysis on 9th round of AES
 
 -Matlab implementation
 
